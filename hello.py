@@ -1,2 +1,1 @@
-print("Hello, Git!")
-print()
+print("Git - это система контроля версий").
